@@ -1,0 +1,2 @@
+export declare const RAVEN_SENTRY_PROVIDER = "RAVEN_SENTRY_PROVIDER";
+export declare const RAVEN_SENTRY_CONFIG = "RAVEN_SENTRY_CONFIG";
